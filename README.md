@@ -23,4 +23,4 @@ Based heavily on the DCG framework idea and ALiVE Thesis. We plan to take all th
 
 
 #Disclaimer:
-- This is an open source software made with open source tools and utilizes other peoples open source code. I am a DCG repository member and developer so I am free, to, by the license and the will of the creator, do as I wish with all of that. If you have a problem with it, especially you FallujahMedic, go fuck yourself. I really mean that.
+- This is an open source software made with open source tools and utilizes other peoples open source code to minimize development time.
