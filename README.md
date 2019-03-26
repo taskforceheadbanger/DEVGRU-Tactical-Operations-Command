@@ -17,5 +17,5 @@ The Official DEVGRU NAVY SEAL Tactical Operation Command Center mission developm
 # Included Extras
 - Build tools
 - Validation tools
-- tbbmalloc_bi.dll & tbbmalloc_bi_x64.dll c/o Flax (KestelStudios)
+- tbbmalloc_bi.dll & tbbmalloc_bi_x64.dll c/o Flax (Kestrel)
 - Intercept Database and Other Magical Things c/o Dedmen
