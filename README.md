@@ -13,3 +13,9 @@ The Official DEVGRU NAVY SEAL Tactical Operation Command Center mission developm
 - Weather System
 - Transportation System
 - ACRE,TFAR Radio Communication Systems
+
+# Included Extras
+- Build tools
+- Validation tools
+- tbbmalloc_bi.dll & tbbmalloc_bi_x64.dll c/o Flax (KestelStudios)
+- Intercept Database and Other Magical Things c/o Dedmen
