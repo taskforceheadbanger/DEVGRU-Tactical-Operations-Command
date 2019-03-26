@@ -1,6 +1,6 @@
 # COMING SOON
 The Official DEVGRU NAVY SEAL Tactical Operation Command Center mission development, planning and intelligence facility. This will be a fully functional mod which will, increase the abilities of Special Operations groups inside of the Arma 3 simulator.
-Based heavily on the DCG framework and ALiVE Thesis. We plan to take all those amazing mods ideas, and enhance or use them in our own way.
+Based heavily on the DCG framework idea and ALiVE Thesis. We plan to take all those amazing mods ideas, and enhance or use them in our own way.
 # Requirements
 - CBA3, ACE3
 # Operating System / System Requirements
