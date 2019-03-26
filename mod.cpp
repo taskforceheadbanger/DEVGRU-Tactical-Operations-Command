@@ -1,0 +1,15 @@
+name = "DEVGRU TOC Alpha 0.01";
+author = "SOCM R. Neff";
+description = "DTOC - Alpha 0.01";
+picture = "x\dtoc\addons\Media\dtoc_logo.paa";
+logoSmall = "x\dtoc\addons\Media\dtoc_logo_small.paa";
+logo = "x\dtoc\addons\Media\dtoc_logo_small.paa";
+logoOver = "x\dtoc\addons\Media\dtoc_logo_small.paa";
+actionName = "Github";
+action = "https://github.com/diveyez/DEVGRU-Tactical-Operations-Command";
+hidePicture = 0;
+hideName = 0;
+tooltip = "DTOC";
+tooltipOwned = "DEVGRU TOC";
+overview = "DEVGRU TOC Alpha";
+overviewPicture = "x\dtoc\addons\Media\dtoc.paa";
