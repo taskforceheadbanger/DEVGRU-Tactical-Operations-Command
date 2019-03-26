@@ -1,1 +1,0 @@
-#include "\d\dcg\addons\weather\script_component.hpp"
