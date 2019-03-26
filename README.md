@@ -10,9 +10,7 @@ Based heavily on the DCG framework idea and ALiVE Thesis. We plan to take all th
 - i3 3.3Ghz or better Intel Processor (Large Paging and AI Virtualization)
 
 # Finished Features
-- Weather System
-- Transportation System
-- ACRE,TFAR Radio Communication Systems
+- TBA
 
 # Included Extras
 - Build tools
