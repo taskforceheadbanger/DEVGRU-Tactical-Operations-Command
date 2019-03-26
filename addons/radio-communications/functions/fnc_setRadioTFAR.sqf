@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-
-Description:
-assigns TFAR radio and channels
-
-Arguments:
-
-Return:
-none
-__________________________________________________________________*/
 #include "script_component.hpp"
 #define ID_SLEEP 6
 

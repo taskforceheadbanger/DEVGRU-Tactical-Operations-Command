@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-
-Description:
-initialize settings via CBA framework
-
-Arguments:
-
-Return:
-bool
-__________________________________________________________________*/
 #include "script_component.hpp"
 #define CATEGORY_ACRE [COMPONENT_NAME,"ACRE2 Settings"]
 #define CATEGORY_TFAR [COMPONENT_NAME,"TFAR Settings"]

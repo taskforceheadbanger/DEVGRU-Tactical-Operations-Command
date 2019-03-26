@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-
-Description:
-assigns ACRE2 radio and channels
-
-Arguments:
-
-Return:
-none
-__________________________________________________________________*/
 #include "script_component.hpp"
 
 private _missing = [];

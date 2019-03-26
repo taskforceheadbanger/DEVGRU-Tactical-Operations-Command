@@ -1,1 +1,1 @@
-#include "\d\dcg\addons\radio\script_component.hpp"
+#include "\x\dtoc\addons\radio\script_component.hpp"

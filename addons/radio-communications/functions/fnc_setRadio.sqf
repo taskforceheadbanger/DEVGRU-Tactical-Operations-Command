@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-
-Description:
-adds radios to player inventory
-
-Arguments:
-
-Return:
-none
-__________________________________________________________________*/
 #include "script_component.hpp"
 
 if !(hasInterface) exitWith {};

@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-
-Description:
-set radio settings, must be ran globally
-
-Arguments:
-
-Return:
-none
-__________________________________________________________________*/
 #include "script_component.hpp"
 #define PRESET QGVARMAIN(preset)
 #define NETWORK_COUNT 6

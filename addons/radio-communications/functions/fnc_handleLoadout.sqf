@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI), Larrow, Kingsley1997
-
-Description:
-handle arsenal loadouts
-
-Arguments:
-
-Return:
-nothing
-__________________________________________________________________*/
 #include "script_component.hpp"
 #define LOADOUT_VAR "bis_fnc_saveInventory_data"
 #define LOADOUT_DATA (profileNamespace getVariable [LOADOUT_VAR,[]])
