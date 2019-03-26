@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-
-Description:
-handle client respawns
-
-Arguments:
-
-Return:
-nothing
-__________________________________________________________________*/
 #include "script_component.hpp"
 
 if (!hasInterface) exitWith {};

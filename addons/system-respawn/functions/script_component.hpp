@@ -1,1 +1,1 @@
-#include "\d\dcg\addons\respawn\script_component.hpp"
+#include "\x\dtoc\addons\respawn\script_component.hpp"

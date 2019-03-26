@@ -1,15 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-
-Description:
-initialize settings via CBA framework
-
-Arguments:
-
-Return:
-bool
-__________________________________________________________________*/
 #include "script_component.hpp"
 
 [
@@ -37,7 +25,7 @@ __________________________________________________________________*/
     true,
     {
         if (!hasInterface) exitWith {};
-        
+
         setPlayerRespawnTime _this;
     }
 ] call CBA_Settings_fnc_init;

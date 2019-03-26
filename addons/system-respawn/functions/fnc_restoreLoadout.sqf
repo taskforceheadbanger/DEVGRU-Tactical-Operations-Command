@@ -1,18 +1,3 @@
-/*
-Author:
-bux578, commy2, Nicholas Clark (SENSEI)
-
-Description:
-restore player loadout
-
-Arguments:
-0: player <OBJECT>
-1: saved gear <ARRAY>
-2: saved weapon <ARRAY>
-
-Return:
-none
-__________________________________________________________________*/
 #include "script_component.hpp"
 
 params ["_unit", "_allGear", "_activeWeaponAndMuzzle"];
