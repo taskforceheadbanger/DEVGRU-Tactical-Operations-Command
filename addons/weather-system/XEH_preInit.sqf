@@ -1,7 +1,3 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-__________________________________________________________________*/
 #include "script_component.hpp"
 
 PREINIT;
@@ -50,7 +46,7 @@ GVAR(rainfall) = getArray (configFile >> "CfgWorlds" >> _world >> QGVARMAIN(rain
 // get overcast probabilities
 GVAR(clouds) = GVAR(clouds) apply {1 - _x};
 
-// headless client exit 
+// headless client exit
 if (!isServer) exitWith {};
 
 SETTINGS_INIT;

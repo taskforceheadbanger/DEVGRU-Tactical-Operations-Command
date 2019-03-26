@@ -1,12 +1,8 @@
-/*
-Author:
-Nicholas Clark (SENSEI)
-__________________________________________________________________*/
 #include "script_component.hpp"
 
 POSTINIT;
 
-// headless client exit 
+// headless client exit
 if (!isServer) exitWith {};
 
 ["CBA_settingsInitialized", {
@@ -20,7 +16,7 @@ if (!isServer) exitWith {};
         INFO("date changed, set initial forecast");
 
         GVAR(date) = date;
-        
+
         private _forecast = [0] call FUNC(getForecast);
 
         GVAR(overcast) = _forecast#0;
