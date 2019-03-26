@@ -20,5 +20,5 @@ Based heavily on the DCG framework idea and ALiVE Thesis. We plan to take all th
 
 
 
-#Disclaimer:
+# Disclaimer
 - This is an open source software made with open source tools and utilizes other peoples open source code to minimize development time.
