@@ -1,1 +1,0 @@
-#include "\d\dcg\addons\fob\script_component.hpp"

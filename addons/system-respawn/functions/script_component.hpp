@@ -1,1 +1,0 @@
-#include "\d\dcg\addons\respawn\script_component.hpp"
