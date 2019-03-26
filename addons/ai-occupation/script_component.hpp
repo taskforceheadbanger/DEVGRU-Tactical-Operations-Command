@@ -1,12 +1,12 @@
 #define COMPONENT occupy
 #define COMPONENT_PRETTY Occupy
 
-#include "\d\dcg\addons\main\script_mod.hpp"
+#include "\x\dtoc\addons\main\script_mod.hpp"
 
 #define DEBUG_MODE_FULL
 #define DISABLE_COMPILE_CACHE
 
-#include "\d\dcg\addons\main\script_macros.hpp"
+#include "\x\dtoc\addons\main\script_macros.hpp"
 
 #define SET_UNITVAR(OBJ) (OBJ) setVariable [QGVAR(saveEntity),true]
 #define GET_UNITVAR(OBJ) (OBJ) getVariable [QGVAR(saveEntity),false]
