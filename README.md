@@ -35,9 +35,9 @@ As an Open Source Free Reuse and Modification Software
 SOCM R. 'Diveyez' Neff
 
 ### CONTRIBUTORS
+SOCM J. Neff
 SOCM W. Nichols
 SOC B. Ruffner
-SOCM J. Neff
 SOC Mina WW.
 
 # DCG Authors
