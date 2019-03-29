@@ -29,7 +29,16 @@ As Licensed by the Original Author of DCG
 We are also licensing with  GNU GENERAL PUBLIC LICENSE Version 2
 As an Open Source Free Reuse and Modification Software
 
+# DEVGRU-Tactical-Operations-Command Authors
 
+## PROJECT LEAD
+SOCM R. 'Diveyez' Neff
+
+### CONTRIBUTORS
+SOCM W. Nichols
+SOC B. Ruffner
+SOCM J. Neff
+SOC Mina WW.
 
 # DCG Authors
 
