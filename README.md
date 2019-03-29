@@ -22,8 +22,22 @@ Utilizing the DCG Framework to bring to you, an immersive and lag free solution 
 
 
 # Disclaimer
+You are responsible for any damages incurred while implementing and utilizing this software and it is provided without warranty.
 
 # License
 As Licensed by the Original Author of DCG
 We are also licensing with  GNU GENERAL PUBLIC LICENSE Version 2
 As an Open Source Free Reuse and Modification Software
+
+
+
+# DCG Authors
+
+## PROJECT LEAD
+Nicholas Clark (SENSEI)
+
+### CONTRIBUTORS
+MrCurry
+Radeni
+Dan
+Nate63
