@@ -1,0 +1,27 @@
+class Header
+{
+ gameType = Coop;
+ minPlayers = 1;
+ maxPlayers = 32;
+};
+class CfgDebriefing
+{
+	class End1
+	{
+		title = "Operation Terminated";
+		subtitle = "OPERATION TERMINATED";
+		description = "The last 36 hours of your life have been disavowed. ";
+		picture = "b_inf";
+		pictureColor[] = {0.0,0.3,0.6,1};
+	};
+};
+allowFunctionsLog = 1;
+respawndelay = 10;
+Briefing = 1;
+debriefing = 1;
+author = "SOCM R. Neff";
+onLoadName = "DEVGRU - Tactical Operations Command";
+loadScreen = "dev.jpg";
+onLoadMission = "https://www.devgru.club and come to our Discord to join us or ask questions. Please report any errors and bugs you find to SOCM R. Neff for fixing.";
+overviewText = " Some Text! ";
+overviewPicture = "devgru.jpg";
