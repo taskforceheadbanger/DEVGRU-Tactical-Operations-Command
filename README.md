@@ -1,4 +1,5 @@
-# WARNING: PROJECT ON HOLD AWAITING DCG FRAMEWORK UPGRADE 
+# WARNING: PROJECT ON HOLD AWAITING DCG FRAMEWORK UPGRADE
+# EXPECT A LONG WAIT WITH MULTIPLE DELAYS 
 
 # COMING SOON
 The Official DEVGRU NAVY SEAL Tactical Operation Command Center mission development, planning and intelligence facility. This will be a fully functional mod which will, increase the abilities of Special Operations groups inside of the Arma 3 simulator.
